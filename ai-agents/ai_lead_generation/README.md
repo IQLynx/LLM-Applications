@@ -48,7 +48,7 @@ ai_lead_generation/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
+git clone https://github.com/IQLynx/LLM-Applications.git
 cd ai_agent_tutorials/ai_lead_generation
 ```
 
