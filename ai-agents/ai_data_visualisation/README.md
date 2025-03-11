@@ -29,7 +29,7 @@ Follow the steps below to set up and run the application:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd ai_agent_tutorials/ai_data_visualisation_agent
+   cd ai_agent_tutorials/ai_data_visualisation
    ```
 2. **Install the dependencies**
     ```bash
@@ -37,5 +37,5 @@ Follow the steps below to set up and run the application:
     ```
 3. **Run the Streamlit app**
     ```bash
-    streamlit run ai_data_visualisation_agent.py
+    streamlit run ai_data_visualisation.py
     ```
