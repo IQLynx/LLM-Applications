@@ -23,9 +23,7 @@ cd awesome-llm-apps/rag_tutorials/agentic_rag
 pip install -r requirements.txt
 ```
 
-3. Get your Google API Key
 
-- Sign up for Google and paste your api key in code.
 
 4. Run the AI RAG Agent 
 ```bash
