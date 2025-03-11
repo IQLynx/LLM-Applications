@@ -66,7 +66,7 @@ Follow the steps below to set up and run the application:
 ### **2. Clone the Repository**
 ```bash
 git clone https://github.com/IQLynx/LLM-Applications.git
-cd ai_agent_tutorials/data_visualisation
+cd LLM-Appications/ai-agents/data_visualisation
 ```
 
 ### **3. Install Dependencies**
