@@ -3,4 +3,4 @@ class Config:
     GEMINI_API_KEY = "your_gemini_api_key"
     COMPOSIO_API_KEY = "your_composio_api_key"
     GOOGLE_SHEETS_CREDENTIALS_FILE = "cred.json"
-    GOOGLE_SHEETS_ID = "1If7Z8hFN8hvMszHdJUpjlgbFxdhWHntXXB9tNg5O1bg"
+    GOOGLE_SHEETS_ID = "google sheet id"
