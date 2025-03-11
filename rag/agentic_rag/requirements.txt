@@ -1,0 +1,11 @@
+agno
+google-genai
+lancedb 
+tantivy 
+pypdf 
+sqlalchemy 
+pgvector 
+psycopg[binary]
+fastapi
+duckduckgo-search
+uvicorn
